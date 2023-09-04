@@ -8,10 +8,10 @@ I currently work as a **UX/UI Designer** always in constant learning!😃
 ✦ 🏙 Live in Maringá/PR;\
 ✦ 👯 Contact me:
 <p align='left'> 
-  <a href="https://instagram.com/leosiick">
+  <a href="https://instagram.com/leosiick" target="_blank">
       <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
   </a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/leonardo-batistaf/">
+  <a href="https://www.linkedin.com/in/leonardo-batistaf/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
 </p>
